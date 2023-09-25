@@ -2,7 +2,7 @@
 
 - Dev. Full-stack
 - Possuo conhecimento em Html, CSS, JavaScript, React, Bootstrap, Tailwind, C++, Python, Java, PHP e SQL.
-- Outros conhecimentos: Design, Animação 3D, Manipulação de Imagens, Edição de vídeo e efeitos visuais.
+- Outros conhecimentos: Design, Animação 3D, Manipulação de Imagens, Edição de Vídeo e Efeitos Visuais.
 
 <div align="center">
   <a href="https://github.com/valance1">
